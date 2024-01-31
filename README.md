@@ -16,12 +16,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a><p><img src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" height="50" width="60"></p></a>
-<a><p><img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" height="50" width="60"></p></a>
-<a><p><img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" height="50" width="60"></p></a>
-<a><p><img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" height="50" width="60"></p></a>
-<a><p><img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" height="50" width="60"></p></a>
-<a><p><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="50" width="60"></p></a>
+<a><p><img align="center" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" height="50" width="60"></p></a>
+<a><p><img align="center" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" height="50" width="60"></p></a>
+<a><p><img align="center" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" height="50" width="60"></p></a>
+<a><p><img align="center" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" height="50" width="60"></p></a>
+<a><p><img align="center" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" height="50" width="60"></p></a>
+<a><p><img align="center" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="50" width="60"></p></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SebastianRojas99&show_icons=true&locale=en&layout=compact" alt="" /></p>
@@ -29,5 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SebastianRojas99&show_icons=true&locale=en" alt="" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianRojas99&" alt="" /></p>
-
 
