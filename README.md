@@ -11,15 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/arjun-singh-27-](https://www.linkedin.com/in/sebastian-marquez-rojas-7599ba227/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-singh-27-" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sebastian-marquez-rojas-7599ba227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-singh-27-" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-![Icono de Angular](https://angular.io/generated/images/logos/angular/angular-logo.svg)
-![Angular Icon](url_del_icono_angular)
-![Figma Icon](url_del_icono_figma)
-![C# Icon](url_del_icono_csharp)
+<p><img src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" height="30" width="40"></p>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SebastianRojas99&show_icons=true&locale=en&layout=compact" alt="" /></p>
