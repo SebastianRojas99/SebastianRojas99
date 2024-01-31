@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-![Swift Icon](url_del_icono_swift)
+![Icono de Angular](https://angular.io/generated/images/logos/angular/angular-logo.svg)
 ![Angular Icon](url_del_icono_angular)
 ![Figma Icon](url_del_icono_figma)
 ![C# Icon](url_del_icono_csharp)
