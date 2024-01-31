@@ -16,6 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p><img src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" height="50" width="60"></p>
+<p><img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" height="50" width="60"></p>
 
 </p>
 
