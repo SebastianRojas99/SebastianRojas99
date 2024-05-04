@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SebastianRojas99&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-- 🌱 I’m currently learning ** Dart **
-
 - 📫 How to reach me **Sebarojas99@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
